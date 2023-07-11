@@ -1,0 +1,46 @@
+=>create react app:
+
+npx create-react-app my-app  (recommended to use by react official team)
+
+or 
+
+npm init react-app appname
+
+
+portfolio site design:
+
+https://revengerx.dev/#techSkills
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
